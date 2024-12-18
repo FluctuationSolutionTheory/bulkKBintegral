@@ -1,0 +1,24 @@
+    3      nh      # of header lines in data file
+Na+ (Group 1):
+  602      ns1     No. of molecules
+    1      ms1     No. of atoms per molecule
+ 22.9898            mass
+-----------------------------------
+Cl- (Group 2):
+  602      ns2     No. of molecules
+    1      ms2     No. of atoms per molecule
+35.453             mass
+-----------------------------------
+K+ (Group 3):
+  602      ns3     No. of molecules
+    1      ms3     No. of atoms per molecule
+39.0983            mass
+-----------------------------------
+Br- (Group 4):
+  602      ns4     No. of molecules
+    1      ms4     No. of atoms per molecule
+79.9040            mass
+-----------------------------------
+10001      ntf     Total number of time steps per input file (2000 in 10ns = 1 config every 5ps)
+    1      ni      number of input files
+trjconv900-1000ns.pdb

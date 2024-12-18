@@ -1,0 +1,17 @@
+KB analysis of 10.0nm box of 1MNaCl+1MKBr (water not dumped out)
+Na+ (Group 1):
+  602      ns1     No. of molecules
+-----------------------------------
+Cl- (Group 2):
+  602      ns2     No. of molecules
+-----------------------------------
+K+ (Group 3):
+  602      ns3     No. of molecules 
+-----------------------------------
+Br- (Group 4):
+  602      ns4     No. of molecules
+-----------------------------------
+      0.01      dr (in nm) 
+      5.00      dist
+   2.00   2.00  rl, ru Lower and upper bounds for KB averages    
+900-1000ns.akbi
