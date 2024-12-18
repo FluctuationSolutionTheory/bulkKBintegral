@@ -4,7 +4,7 @@
 These codes are used to analyze bulk systems and calculate Kirkwood-Buff integrals (KBIs) for these systems.
 ```rdf.f``` calculates radial distribution functions (RDFs) and coordination numbers.
 ```kb.f``` calculates KBIs, using the coordination numbers output from the ```rdf.f``` code as input.
-While below we reference a paper about electrolyle systems, these codes can also be used for non-electrolyte systems as well.
+While below we reference a paper about electrolyte systems, these codes can also be used for non-electrolyte systems as well.
 The example input files are setup for the system 1M NaCl + 1M KBr (*aq*). In this example, only the (distinguishable) ion-ion RDFs and KBIs would be calculated, not those involving water.
 This code could also be used to calculate indistinguishable ion-ion RDFs & KBIs if the input files were setup accordingly.
 
